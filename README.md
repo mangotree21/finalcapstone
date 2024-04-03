@@ -34,6 +34,12 @@ a little less.
 On the other side, by using some functions such as:
 pre-process, get_doc, analyze_sentiment this model becomes simple to
 use and can predict data very quickly
+Below are the screenshots of the project:
+![viewing columns](https://github.com/mangotree21/finalcapstone/assets/152438509/5609e559-55f3-4744-9704-4a56a0446c13)
 
+![data cleaning ](https://github.com/mangotree21/finalcapstone/assets/152438509/1f957293-9b3d-4fa5-80ab-4c57eb8873de)
 
+![functions](https://github.com/mangotree21/finalcapstone/assets/152438509/7a8fdfe6-9bd4-43b6-8dd1-69a44253ffbc)
+
+![similarity score](https://github.com/mangotree21/finalcapstone/assets/152438509/efe5f186-cd43-4887-aa36-63d92b35de06)
 
