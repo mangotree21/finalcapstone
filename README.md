@@ -45,5 +45,9 @@ Data cleaning and preparing:
 Using functions to pre-process review data.
 ![functions](https://github.com/mangotree21/finalcapstone/assets/152438509/7a8fdfe6-9bd4-43b6-8dd1-69a44253ffbc)
 
+Using text blobs to analyze the sentiment of the reviews:
+Using![sentiment of the reviews](https://github.com/mangotree21/finalcapstone/assets/152438509/17c5ad8c-35a0-42bd-bc05-6d3a548d84ce)
+
+Getting the similarity score:
 ![similarity score](https://github.com/mangotree21/finalcapstone/assets/152438509/efe5f186-cd43-4887-aa36-63d92b35de06)
 
