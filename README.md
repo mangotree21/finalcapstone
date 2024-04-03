@@ -33,7 +33,8 @@ English language package, the accuracy of the sentiment analysis could be
 a little less.
 On the other side, by using some functions such as:
 pre-process, get_doc, analyze_sentiment this model becomes simple to
-use and can predict data very quickly
+use and can predict data very quickly.
+
 Below are the screenshots of the project:
 ![viewing columns](https://github.com/mangotree21/finalcapstone/assets/152438509/5609e559-55f3-4744-9704-4a56a0446c13)
 
